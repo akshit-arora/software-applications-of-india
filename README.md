@@ -4,13 +4,6 @@
 >
 > **Please note when raising a PR:** The software company must have their HQ in India
 
-Legend:
-- ✨ = Free and open-source (or source available)
-- ⭐️ = Free of charge
-- 💵 = Single purchase
-- 🔒 = Subscription for more functions
-- ⌛ = Free trial
-
 **Software Categories**
 
 - [Accounting](#accounting)
